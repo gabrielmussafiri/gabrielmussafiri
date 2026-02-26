@@ -37,7 +37,7 @@ AI API Consumption
 Git  
 GitHub  
 VS Code  
-AWS (Foundations)
+AWS
 
 ---
 
